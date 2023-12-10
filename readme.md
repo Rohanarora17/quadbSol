@@ -1,7 +1,7 @@
 quadb assignment solution
 
-
 #To run
+
 1. git clone the the project
 2. cd into the folder
 3. `npm install` to install the dependencies
@@ -9,4 +9,4 @@ quadb assignment solution
 5. `npm start` to run the server locally
 
 Preview
-![Alt Text]()
+![Alt Text](./hodl.png)
