@@ -1,7 +1,7 @@
 quadb assignment solution
 
 
-#To run#
+#To run
 1. git clone the the project
 2. cd into the folder
 3. `npm install` to install the dependencies
