@@ -7,3 +7,6 @@ quadb assignment solution
 3. `npm install` to install the dependencies
 4. Need to configure the database in .env file
 5. `npm start` to run the server locally
+
+Preview
+![Alt Text]()
